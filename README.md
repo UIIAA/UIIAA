@@ -2,11 +2,12 @@
 - 👀 I’m interested in all .Net Platform JS and AI tech. More specifically in this moment in C# and .Net Core..
 
 - 🌱 I’m currently learning About creation of Api, WPF WFA and Entity Framework. 
-I think we need to start from the beginning and I choose .Net because I think that's gives you a lot of possibilities. 
-Start with a solid Language Near of C and Java will give you some bagage to Learn Everything.
-That's absolutely amazing.
 
-My focus area will be Back End
+My focus area is Back End development with focus on API, SQL, and NO SQL database. 
+At least now, im learning a litle of Front End Development with React and Angular. 
+I'm Working in some CRUD Aplications on that Languages plus .Net 
+
+I've got already some contact with Html Css and Vanilla JS.
 
 - 💞️ I’m looking to collaborate on whatever I can hehe
 
